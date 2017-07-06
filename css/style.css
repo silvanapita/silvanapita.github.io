@@ -106,5 +106,12 @@ section {
   font-size: 1em;
 }
 
-
+footer {
+  font-family: 'Comfortaa', cursive;
+  color: blue;
+  font-size: 0.8em;
+  text-align: right;
+  background: linear-gradient(to right, white, cyan);
+  padding: 1em;
+}
 
