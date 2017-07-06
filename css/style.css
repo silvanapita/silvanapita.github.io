@@ -82,5 +82,20 @@ a {
   align-items: center;
 }
 
+.texto-miscelaneo {
+  font-family: 'Spectral', serif;
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+  font-size: 1em;
+  text-align: left;
+  margin: 5px;
+  width: 120px;
+  border: 2px solid grey;
+  padding: 20px;
+  padding-top: 20px;
+}
+
 
 
